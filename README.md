@@ -10,7 +10,7 @@ Current skilling systems effectively capture:
 
 ```text
 Enrollment
-   ↓
+   ↓ 
 Training
    ↓
 Assessment
