@@ -1,7 +1,6 @@
 # KSkillAI360 — Post-Training Outcome Tracking & Intelligence Platform
 
 **Tagline**: *"From Training Completion to Sustainable Employment"*  
-**Smart India Hackathon 2026**: Problem Statement 26135
 
 ---
 
