@@ -2,9 +2,9 @@
 
 **Tagline**: *"From Training Completion to Sustainable Employment"*  
 
----
+--- 
 
-## 📌 Problem
+##  Problem
 
 Current skilling systems effectively capture:
 
